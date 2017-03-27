@@ -1,20 +1,25 @@
 :root {
-	--bg: #E66A12;
-	--primary: #E66A12;
-	--solid: #E66A12;
+	--bg: #41AA7B;
+	--primary: #41AA7B;
+	--solid: ##41AA7B;
+	--btn-w: 10em;
+	--dot-w: calc(var(--btn-w)*.2);
+	--tr-X: calc(var(--btn-w) - var(--btn-w)*.2);
 }
-* {box-sizing: border-box;}
-*:before, *:after {box-sizing: border-box;}
+
+#apply { 
+	background-color: #E69C25;
+	color: #ffffff;
+}
 
 .btn {
 	position: relative;
 	margin: 0 auto;
+	width: var(--btn-w);
 	color: var(--primary);
-	border-radius: 5em;
 	text-transform: uppercase;
 	text-align: center;
-	font-size: 1.3em;
+	font-size: 3.3em;
 	line-height: 2em;
 	cursor: pointer;	
 }
-
