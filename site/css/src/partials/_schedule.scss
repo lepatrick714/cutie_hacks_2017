@@ -1,0 +1,29 @@
+/**
+ * schedule
+ */
+
+/**
+ * Module imports
+ */
+
+@import 'modules/colors';
+
+/**
+ * Local variables
+ */
+
+$schedule-bg-color: $citrus-orange;
+$light-grey: #EBECEC;
+
+/**
+ * Styles
+ */
+
+#schedule {
+    color: $white; 
+    background-color: $schedule-bg-color;
+    
+    .text-muted {
+      color: $light-grey;
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "cutiehack",
+  "version": "2.0.0",
+  "description": "UCR's Hackathon Website",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kyle Minshall",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-clean": "~0.3.1",
+    "gulp-concat": "~2.4.2",
+    "gulp-jshint": "~1.9.0",
+    "gulp-minify-css": "~0.3.11",
+    "gulp-sass": "^2.2.0",
+    "jshint-stylish": "~1.0.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}

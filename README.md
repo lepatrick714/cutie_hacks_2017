@@ -1,2 +1,2 @@
-# cutie_hacks_2017
-A website for Citrus Hack's little sister :) 
+# cutiehack
+Website for Citrus Hack's adorable younger sister
