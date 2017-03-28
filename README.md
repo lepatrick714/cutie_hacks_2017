@@ -1,12 +1,12 @@
-#Cutie Hacks
+# Cutie Hacks
 Website for Citrus Hack's adorable little sister
 
-##What is Cutie Hack? 
+## What is Cutie Hack? 
 Cutie Hack is UC Riverside's local student organized hackathon. This 12 hours event is meant to incite
 more technological creativity with the undergraduate class of UC Riverside and local community colleges 
 in the Inland Empire.
 
-##How do you run this? (Gdi Javascript) 
+## How do you run this? (Gdi Javascript) 
 ```Installation
 $ git clone https://github.com/lepatrick714/cutie_hacks_2017.git 
 
