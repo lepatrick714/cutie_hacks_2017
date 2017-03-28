@@ -1,15 +1,15 @@
 :root {
-	--bg: #41AA7B;
-	--primary: #41AA7B;
-	--solid: ##41AA7B;
+	--bg: ##F39538;
+	--primary: ##F39538;
+	--solid: ###F39538;
 	--btn-w: 10em;
 	--dot-w: calc(var(--btn-w)*.2);
 	--tr-X: calc(var(--btn-w) - var(--btn-w)*.2);
 }
 
 #apply { 
-	background-color: #E69C25;
-	color: #ffffff;
+  background-color: #225D70;
+  color: #ffffff;
 }
 
 .btn {
@@ -20,6 +20,7 @@
 	text-transform: uppercase;
 	text-align: center;
 	font-size: 3.3em;
-	line-height: 2em;
+	font-color: #225D70;
+  line-height: 2em;
 	cursor: pointer;	
 }

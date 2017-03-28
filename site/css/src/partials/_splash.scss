@@ -26,7 +26,8 @@ $splash-img-src: 'img/citrustree.jpg';
     width: $splash-width;
     position: relative;
     // Background
-    background: #3398DB;
+    //background: #3398DB;
+    background-image: url('../../../img/bg.png');
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
