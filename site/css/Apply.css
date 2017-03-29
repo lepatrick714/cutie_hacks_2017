@@ -15,7 +15,6 @@
 .btn {
 	position: relative;
 	margin: 0 auto;
-	width: var(--btn-w);
 	color: var(--primary);
 	text-transform: uppercase;
 	text-align: center;
